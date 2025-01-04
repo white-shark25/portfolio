@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Cybersecurity Portfolio
 
-Hi, I'm **Shankar Sai Srirangam Benargi**, a passionate **Cybersecurity Professional** and **Ethical Hacker** with a solid foundation in **penetration testing**, **vulnerability analysis**, and **web application security**. This portfolio highlights my skills, certifications, projects, and professional journey in cybersecurity.
+Hi, I'm **Benargi Shankar Sai Srirangam **, a passionate **Cybersecurity Professional** and **Ethical Hacker** with a solid foundation in **penetration testing**, **vulnerability analysis**, and **web application security**. This portfolio highlights my skills, certifications, projects, and professional journey in cybersecurity.
 
 ---
 
