@@ -2,122 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to My Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+Hi, I'm **Shankar Sai Srirangam Benargi**, a passionate **Cybersecurity Professional** and **Ethical Hacker** with a solid foundation in **penetration testing**, **vulnerability analysis**, and **web application security**. This portfolio highlights my skills, certifications, projects, and professional journey in cybersecurity.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About Me
+I am a detail-oriented individual specializing in ethical hacking and cybersecurity. My expertise includes:
 
-# Header 1
+- **Penetration Testing Tools:** Metasploit, Nmap, Nessus, Burp Suite, Wireshark
+- **Programming & Scripting:** Python, Bash
+- **Cybersecurity Focus Areas:**
+  - Active Directory exploitation
+  - Web application attacks (e.g., SQL Injection, XSS)
+  - Network traffic analysis
+  - Vulnerability assessments
+  - Privilege Escalation
+  - OSINT
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Certifications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **eJPT (eLearnSecurity Junior Penetration Tester)**
+- **Cisco Networking Academy:** Introduction to Cybersecurity Badge
+- **Certified Cyber Warrior** (HackingFlix Academy)
+- **Ethical Hacking Certification** (NSDC, Internshala)
+- **Offensive Security Certified Professional (OSCP)** - *In Progress*
+- **MITRE ATT&CK Lateral Movement Badge** (OffSec)
+- **OffSec Skill Pins:**
+  - Linux Admin Skill Path
+  - Enumeration Skill Path
+  - Antivirus Evasion Skill Path
+  - Vulnerability Detection Skill Path
+  - Active Directory Penetration Testing Skill Path
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Professional Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Internship at Mastercard (December 2024)
+- Conducted phishing analysis and reported threats.
+- Developed and implemented security awareness training programs.
+- Identified business areas requiring enhanced security measures.
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Notable Projects
 
-##### Header 5
+### 🛒 E-commerce Platform Security Assessment
+- **Techniques Used:** SQL Injection, XSS, CSRF
+- **Outcome:** Detected critical vulnerabilities, improving system security.
+- **Details:** Created detailed reports with Proof-of-Concepts (PoCs) and remediation steps.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 🖥️ Active Directory Exploit Simulation
+- **Environment:** Virtual lab setup.
+- **Highlights:** Executed privilege escalation attacks and tested defense mechanisms.
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Contact Me
 
-### There's a horizontal rule below this.
+- 📧 Email: [benargi1411@gmail.com](mailto:benargi1411@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shankar-benargi-959956341)
+- 📜 [Resume](#) *(Add a link to your resume)*
 
-* * *
+---
 
-### Here is an unordered list:
+## Explore My Repositories
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- [E-commerce Security Assessment](#) *(Link to project repository)*
+- [Active Directory Exploit Simulation](#) *(Link to project repository)*
+- [Python & Bash Scripts for Automation](#) *(Link to repository)*
+- [Cybersecurity Labs & CTF Write-Ups](#) *(Link to repository)*
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Feel free to explore my work, and connect with me to collaborate on exciting cybersecurity challenges!
