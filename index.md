@@ -72,9 +72,9 @@ I am a detail-oriented individual specializing in ethical hacking and cybersecur
 
 ## Explore My Repositories
 
-- [E-commerce Security Assessment](#) *(Link to project repository)*
+- [E-commerce Security Assessment](https://drive.google.com/file/d/1F7COcESiFW7asPZ2bhq2yeb6fdqmpzTf/view?usp=drive_link)
 - [Active Directory Exploit Simulation](#) *(Link to project repository)*
 - [Python & Bash Scripts for Automation](#) *(Link to repository)*
-- [Cybersecurity Labs & CTF Write-Ups](#) *(Link to repository)*
+- [Cybersecurity Labs](#) *(Link to repository)*
 
 Feel free to explore my work, and connect with me to collaborate on exciting cybersecurity challenges!
