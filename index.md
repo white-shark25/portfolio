@@ -66,7 +66,7 @@ I am a detail-oriented individual specializing in ethical hacking and cybersecur
 
 - 📧 Email: [benargi1411@gmail.com](mailto:benargi1411@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shankar-benargi-959956341)
-- 📜 [Resume](#) *(Add a link to your resume)*
+- 📜 [Resume](#) *(https://drive.google.com/file/d/1_u5FmnAPLmcMTW2fccJ9cTQC2WXu8w1G/view?usp=drive_link)*
 
 ---
 
